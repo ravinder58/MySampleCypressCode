@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
  
-describe('LoginDemo', () => {
+describe('LoginDemotestcase, () => {
 
     it('AutomationPractice-Login', () => {
       cy.visit('https://automationteststore.com/')
