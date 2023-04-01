@@ -1,0 +1,21 @@
+{
+  "name": "samplecypressautomation",
+  "version": "1.0.0",
+  "description": "Creating project with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "automation",
+    "first",
+    "project",
+    "learning"
+  ],
+  "author": "ravinder",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}

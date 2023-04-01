@@ -1,0 +1,7 @@
+{
+
+"baseUrl": "https://example.cypress.io/",
+ "viewportWidth": 1536,
+ "viewportHeight": 960
+
+}
